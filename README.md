@@ -43,3 +43,19 @@ Most scripts can be executed with:
 
 ```bash
 perl script_name.pl
+
+Some scripts may require additional Perl modules or system dependencies. Check the comments at the top of each script for requirements and usage information.
+
+## Contributions
+
+This is primarily a personal learning repository, but suggestions, feedback, and constructive criticism are always welcome.
+
+## License
+
+Unless otherwise stated, feel free to use, modify, and learn from anything in this repository.
+
+## Final Note
+
+If you're also learning Perl, feel free to explore the code, borrow ideas, break things, and build something cool of your own.
+
+Happy scripting.
